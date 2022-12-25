@@ -1,5 +1,5 @@
 [project]
-name = "learning_pkg_hridaykeswani"
+name = "learning_pkg"
 version = "1.0.0"
 authors = [
   { name="Hriday Keswani", email="" },
